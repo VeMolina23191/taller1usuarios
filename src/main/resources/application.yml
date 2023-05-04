@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /taller1/api/v1
+  port: 9081
+spring:
+  application:
+    name: taller1
+  profiles:
+    active: dev
